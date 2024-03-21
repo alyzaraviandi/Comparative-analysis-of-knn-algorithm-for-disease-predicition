@@ -26,3 +26,14 @@ This study provides valuable insights into algorithm selection for disease risk 
 | D8  | Breast Cancer                         | 5        | 596       | [30]                                                                                               |
 | D9  | Statlog Heart Disease                 | 13       | 596       | [19]                                                                                               |
 | D10 | Cardio Vascular Disease               | 12       | 596       | [20]                                                                                               |
+
+
+- [19] Karadeniz, T., Tokdemir, G. & Maraş, H.H. Ensemble Methods for Heart Disease Prediction. New Gener. Comput. 39, 569–581 (2021). [link](https://doi.org/10.1007/s00354-021-00124-4)
+- [20] Abdulwahab Ali Almazroi. Survival prediction among heart patients using machine learning techniques. Mathematical Biosciences and Engineering, 2022, 19(1): 134-145. [link](doi: 10.3934/mbe.2022007)
+- [25] Bhat, N. Health care: Heart attack possibility. [link](https://www.kaggle.com/nareshbhat/health-care-data-set-on-heart-attack-possibility) (2020).
+- [26] Chicco, D. & Jurman, G. Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Med. Inform. Decis. Mak. 20, 1–16 (2020).
+- [27] Mahgoub, A. Diabetes prediction system with KNN algorithm. [link](https://www.kaggle.com/abdallamahgoub/diabetes) (2021).
+- [28] Soundarapandian, P. Chronic_Kidney_Disease Data Set. [link](https://archive.ics.uci.edu/ml/datasets/chronic_kidney_disease) (2015).
+- [29] Smith, J. W., Everhart, J. E., Dickson, W., Knowler, W. C. & Johannes, R. S. In Proceedings of the Annual Symposium on Computer Application in Medical Care. 261 (American Medical Informatics Association) (2011).
+- [30] Suwal, M. S. Breast Cancer Prediction Dataset. [link](https://www.kaggle.com/merishnasuwal/breast-cancer-prediction-dataset) (2018).
+
